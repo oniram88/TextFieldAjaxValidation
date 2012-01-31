@@ -1,0 +1,16 @@
+Usage:
+
+
+{
+	xtype:'textfield_ajaxvalid',
+                          
+	//normal fields of the textfield object
+        name:'code',
+        allowBlank:false,
+	fieldLabel:'Codice',
+	anchor:'100%',
+	
+	//where you whant to validate			
+	url:'path/where/you/whant/to/validate'
+}
+
